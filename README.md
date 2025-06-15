@@ -15,8 +15,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravAcharya23&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
+
 [![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SauravAcharya23&show_icons=true&theme=radical)](https://github.com/SauravAcharya23)  
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravAcharya23&theme=radical" alt="GitHub Streak" />
+  </p>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravAcharya23&layout=compact&theme=radical)](https://github.com/SauravAcharya23)
 
 ### 🌟 Featured Projects
