@@ -32,6 +32,7 @@
 ### 📫 Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sauravacharya236@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sauravacharya7486?igsh=OXVxbG5paXM5ZWRl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-acharya-808514370/)
 
 
 ⭐ *Fun Fact*: I'm a coffee addict ☕ + code poet!
