@@ -10,10 +10,9 @@
 - 💬 Ask me about *Dart, UI/UX, or mobile development*  
 
 ### 🛠 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<a href="#">
+   <img src="https://skillicons.dev/icons?i=vscode,firebase,androidstudio,dart,flutter" />
+</a>
 
 ### 📈 GitHub Stats 
 
@@ -30,13 +29,17 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SauravAcharya23&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌟 Featured Projects
-- [Project 1](Link) - Short description  
-- [Project 2](Link) - Short description  
+- [Learn C Programming](https://play.google.com/store/apps/details?id=com.smait.learnc) - Mobile Application
+- [Programming Hub](https://play.google.com/store/apps/details?id=com.smait.learnprogramming) - Mobile Application
 
 ### 📫 Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sauravacharya236@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sauravacharya7486?igsh=OXVxbG5paXM5ZWRl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-acharya-808514370/)
+<p align="left">
+<a href="mailto:sauravacharya236@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+&nbsp
+<a href="https://www.linkedin.com/in/saurav-acharya-808514370/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+&nbsp
+<a href="https://www.instagram.com/sauravacharya7486?igsh=OXVxbG5paXM5ZWRl" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
 
 
 ⭐ *Fun Fact*: I'm a coffee addict ☕ + code poet!
