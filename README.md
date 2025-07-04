@@ -16,6 +16,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📈 GitHub Stats 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravAcharya23&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
 
 [![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SauravAcharya23&show_icons=true&theme=radical)](https://github.com/SauravAcharya23)  
@@ -24,6 +25,9 @@
   </p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravAcharya23&layout=compact&theme=radical)](https://github.com/SauravAcharya23)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=SauravAcharya23&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌟 Featured Projects
 - [Project 1](Link) - Short description  
